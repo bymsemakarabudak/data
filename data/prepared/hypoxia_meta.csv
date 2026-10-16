@@ -1,0 +1,7 @@
+sample,condition
+WT_hypoxia_0min_Rep1,control
+WT_hypoxia_0min_Rep2,control
+WT_hypoxia_0min_Rep3,control
+WT_hypoxia_30min_Rep1,stress
+WT_hypoxia_30min_Rep2,stress
+WT_hypoxia_30min_Rep3,stress

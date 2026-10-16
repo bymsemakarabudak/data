@@ -1,0 +1,7 @@
+sample,condition
+BY4743_Rep1_T0,control
+BY4743_Rep2_T0,control
+BY4743_Rep3_T0,control
+BY4743_Rep3_T30,stress
+BY4743_Rep2_T30,stress
+BY4743_Rep1_T30,stress

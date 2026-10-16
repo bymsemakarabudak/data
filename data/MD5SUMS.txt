@@ -1,0 +1,7 @@
+2f99c980bf36dd1bea5d939e246ea569  data/raw/GSE135568_CountMatrixRNAseq.xlsx
+007612f40b9ac73cd097258a7e62ea8e  data/raw/GSE226246_RNAseqNaCl_RawCounts.txt
+0dd3909b0043e841d0fb07f3c5187d33  data/raw/GSE85595_CountMatrix.csv
+52aedaec7e569a8ab810911f7a621175  data/annotation/gene_association.sgd.gaf.gz
+8f5c488c94b522309b1435ca91056590  data/annotation/go-edit.obo.gz
+cc1a6091823a465f5ce06c7d120ec7ce  data/annotation/go_slim_mapping.tab
+0a0c3665ba9aecb7b0ca7936ac614e6d  data/annotation/regulation.tab
